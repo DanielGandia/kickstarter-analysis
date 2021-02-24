@@ -7,11 +7,11 @@ We were trying to analyze how some campaigns did compared to one another based o
 
 ### Analysis of Outcomes Based on Launch Date
 Regarding the Outcomes for Plays, there weren't any months that had more Failed or Canceled kickstarters than Successful kickstarters. There was only one month (December) that there were more combined failed and canceled kickstarters than Successful. 
-[Theater_Outcomes_vs_Launch.png] (https://github.com/DanielGandia/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch.png](https://github.com/DanielGandia/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 The majority of the projects, a little over 90%, were launched with a goal of less than of $14,999 or less. Kickstarters with a lower goal did had a higher rate of success. 
-[Outcomes_vs_Goals] (https://github.com/DanielGandia/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals.png](https://github.com/DanielGandia/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 Some of the  challenges encountered were when I was creating the "Outcomes Based on Goal" worksheet and adding the formulas, specifically in the number of successful, failed and canceled because of the ranges. I had to modify each formula on each cell and it became a very time-consuming task yet not really difficult. My original Excel document was corrupted and I lost most of the data. Having to do this worksheet for a second time made me really learn the process. 
