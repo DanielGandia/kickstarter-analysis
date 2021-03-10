@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-We were trying to analyze how some campaigns did compared to one another based on the Launch Date and the dollar amount of the Goals. The project was an effort to visualize such data in order to help Louise start Kickstarter preparations.
+We were trying to analyze how some campaigns did compared to one another based on the Launch Date and the dollar amount of the Goals. The project was an effort to visualize such data using VBA in order to help Louise start Kickstarter preparations.
 
 ## Analysis and Challenges: 
 
